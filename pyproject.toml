@@ -1,0 +1,13 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "reading"
+version = "2025.4.3"
+description = "一个文本离线朗读软件"
+dependencies = ["tornado"]
+
+requires-python = ">=3.12"
+readme = "README.md"
+authors = [{name = "许灿标", email = "lcctoor@outlook.com"}]

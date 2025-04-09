@@ -8,12 +8,6 @@
 
 <audio controls autoplay src="static/动天.mp3" type="audio/mp3" style="width: 100%;"></audio>
 
-## ✍️ 作者
-
-许灿标
-
-[主页](https://lcctoor.com/index.html) \| [Github](https://github.com/lcctoor) \| [微信](https://lcctoor.com/cdn/WeChatQRC.jpg) \| [邮箱](mailto:lcctoor@outlook.com) \| [捐赠](https://lcctoor.com/cdn/DonationQRC-0rmb.jpg)
-
 ## 📌 目录
 
 |          🌀 火影忍术          | 🐍 Python 概念 | 主要知识点                                 |
